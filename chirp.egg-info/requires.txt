@@ -1,0 +1,5 @@
+configparser==3.5.0
+pysoundfile>=0.9.0
+requests-futures==0.9.7
+requests>=2.18.1
+sounddevice>=0.3.10
